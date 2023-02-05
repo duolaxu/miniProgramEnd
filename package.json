@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "点餐系统后台",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "order"
+  ],
+  "author": "duolaxu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^2.0.0"
+  },
+  "devDependencies": {
+    "log4js": "^6.7.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}

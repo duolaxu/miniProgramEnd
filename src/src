@@ -1,0 +1,300 @@
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Object
+    at ServerResponse.end (_http_outgoing.js:811:13)
+    at /project/testOrderEnd/src/request/index.js:43:17
+    at done (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:45:7)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:65:11
+    at removeUploadedFiles (/project/testOrderEnd/node_modules/multer/lib/remove-uploaded-files.js:5:28)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:61:9
+    at Counter.onceZero (/project/testOrderEnd/node_modules/multer/lib/counter.js:23:29)
+    at abortWithError (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:56:21)
+    at WriteStream.<anonymous> (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:147:20)
+    at WriteStream.emit (events.js:388:22)
+Mon, 30 Jan 2023 13:54:54 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at index.js:16:13
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Object
+    at ServerResponse.end (_http_outgoing.js:811:13)
+    at /project/testOrderEnd/src/request/index.js:43:17
+    at done (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:45:7)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:65:11
+    at removeUploadedFiles (/project/testOrderEnd/node_modules/multer/lib/remove-uploaded-files.js:5:28)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:61:9
+    at Counter.onceZero (/project/testOrderEnd/node_modules/multer/lib/counter.js:23:29)
+    at abortWithError (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:56:21)
+    at WriteStream.<anonymous> (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:147:20)
+    at WriteStream.emit (events.js:388:22)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Object
+    at ServerResponse.end (_http_outgoing.js:811:13)
+    at /project/testOrderEnd/src/request/index.js:43:17
+    at done (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:45:7)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:65:11
+    at removeUploadedFiles (/project/testOrderEnd/node_modules/multer/lib/remove-uploaded-files.js:5:28)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:61:9
+    at Counter.onceZero (/project/testOrderEnd/node_modules/multer/lib/counter.js:23:29)
+    at abortWithError (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:56:21)
+    at WriteStream.<anonymous> (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:147:20)
+    at WriteStream.emit (events.js:388:22)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Object
+    at ServerResponse.end (_http_outgoing.js:811:13)
+    at /project/testOrderEnd/src/request/index.js:43:17
+    at done (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:45:7)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:65:11
+    at removeUploadedFiles (/project/testOrderEnd/node_modules/multer/lib/remove-uploaded-files.js:5:28)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:61:9
+    at Counter.onceZero (/project/testOrderEnd/node_modules/multer/lib/counter.js:23:29)
+    at abortWithError (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:56:21)
+    at WriteStream.<anonymous> (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:147:20)
+    at WriteStream.emit (events.js:388:22)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Object
+    at ServerResponse.end (_http_outgoing.js:811:13)
+    at /project/testOrderEnd/src/request/index.js:43:17
+    at done (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:45:7)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:65:11
+    at removeUploadedFiles (/project/testOrderEnd/node_modules/multer/lib/remove-uploaded-files.js:5:28)
+    at /project/testOrderEnd/node_modules/multer/lib/make-middleware.js:61:9
+    at Counter.onceZero (/project/testOrderEnd/node_modules/multer/lib/counter.js:23:29)
+    at abortWithError (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:56:21)
+    at WriteStream.<anonymous> (/project/testOrderEnd/node_modules/multer/lib/make-middleware.js:147:20)
+    at WriteStream.emit (events.js:388:22)
+Tue, 31 Jan 2023 01:27:18 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at index.js:16:13
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Wed, 01 Feb 2023 02:23:20 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at index.js:16:13
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Wed, 01 Feb 2023 06:29:59 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at index.js:16:13
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (/project/testOrderEnd/node_modules/express/lib/response.js:1150:12)
+    at ServerResponse.json (/project/testOrderEnd/node_modules/express/lib/response.js:271:14)
+    at ServerResponse.send (/project/testOrderEnd/node_modules/express/lib/response.js:162:21)
+    at /project/testOrderEnd/src/diancan/index.js:487:13
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/project/testOrderEnd/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/project/testOrderEnd/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/project/testOrderEnd/node_modules/express/lib/router/layer.js:95:5)
+    at /project/testOrderEnd/node_modules/express/lib/router/index.js:284:15
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/project/testOrderEnd/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/project/testOrderEnd/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
